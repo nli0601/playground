@@ -1,3 +1,4 @@
-import datetime
+import numpy as np
+ 
 
-print(datetime.datetime.now())
+print(np.linspace(0,1,11))
